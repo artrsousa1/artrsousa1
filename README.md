@@ -43,5 +43,4 @@
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=artrsousa1&hide_border=true&theme=transparent&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=artrsousa1&hide_border=true&theme=transparent&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github">
 </p></a>
-<b href="https://github-readme-stats.vercel.app/api/top-langs/?username=artrsousa1&exclude_repo=eda-2,trabalho-eda&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&text_color=ffffff&show_icons=true"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrsousa1&exclude_repo=eda-2,trabalho-eda&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&text_color=ffffff&show_icons=true">
 </div>
