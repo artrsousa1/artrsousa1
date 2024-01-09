@@ -33,7 +33,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/artrsousa1/artrsousa1/blob/output/github-contribution-grid-snake.gif)
   <br/><br/><br/>
 </div>
 
