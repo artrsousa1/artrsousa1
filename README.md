@@ -19,14 +19,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nextjs,tailwind,vscode,figma,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nextjs,tailwind,figma,git,github,linux" />
 <br/>
 <hr/>
 
 <h2 align="center"> :books: Currently learning :books:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,ts,cpp,django" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,cpp,django,fastapi,mongodb" />
 <br/>
 <hr/>
 
